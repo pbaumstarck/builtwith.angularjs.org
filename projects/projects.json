@@ -1406,7 +1406,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1573,12 +1573,12 @@
       ]
     },
     {
-      "name": "LicensingJS", 
-      "thumb": "licensingjs/thumb.png", 
+      "name": "LicensingJS",
+      "thumb": "licensingjs/thumb.png",
       "desc": "Full crud app that tracks Contractor and Business Licenses using Angular, Breeze, toastr and WebApi, deployed on Azure",
-      "url": "http://licensingjs.azurewebsites.net/", 
-      "info": "http://plus.google.com/u/0/102437918402681897261/", 
-      "submitter": "mgbee8", 
+      "url": "http://licensingjs.azurewebsites.net/",
+      "info": "http://plus.google.com/u/0/102437918402681897261/",
+      "submitter": "mgbee8",
       "submissionDate": "2013-03-22",
       "tags": [
         "Demo",
@@ -1598,8 +1598,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1696,18 +1696,18 @@
       ]
     },
     {
-      "name": "Node Tetrinet",  
-      "thumb": "nodetetrinet/thumb.png", 
-      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io", 
-      "url": "http://net.lo2k.net", 
-      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/", 
-      "src": "https://github.com/xblaster/NodeTetrinet", 
+      "name": "Node Tetrinet",
+      "thumb": "nodetetrinet/thumb.png",
+      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io",
+      "url": "http://net.lo2k.net",
+      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/",
+      "src": "https://github.com/xblaster/NodeTetrinet",
       "submitter": "X-Blaster",
       "submissionDate": "2013-04-24",
       "tags": [
-      "Demo", 
-      "Game", 
-      "CSS3D", "WebSocket", 
+      "Demo",
+      "Game",
+      "CSS3D", "WebSocket",
       "jQuery",
       "Open Source"
       ]
@@ -1887,6 +1887,25 @@
         "Chrome",
         "Extension",
         "To-Do"
+      ]
+    },
+    {
+      "name": "RegexWorks",
+      "thumb": "regexworks/thumb.png",
+      "desc": "A regular expression testing sandbox. Get live feedback running any number of matching or replacing regexes on custom lines of input.",
+      "url": "http://regexworks.itsagoldenage.com/#demo2",
+      "info": "http://webronomicon.blogspot.com/2014/03/regexworks.html",
+      "src": "https://github.com/pbaumstarck/RegexWorks#regexworks",
+      "submitter": "pbaumstarck",
+      "submissionDate": "2014-03-12",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Debugging", "Visualization",
+        "No jQuery",
+        "Open Source",
+        "Regular Expressions",
+        "Regex"
       ]
     }
 
